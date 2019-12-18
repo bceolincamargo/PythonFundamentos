@@ -5,4 +5,4 @@ Data Science Academy - Repositório dos Arquivos do Curso Gratuito Python Fundam
 https://www.datascienceacademy.com.br
 
 
-
+teste
